@@ -1,0 +1,227 @@
+Season,RoundNum,RoundName,Day,Date,Winner,,Loser,,PtsWinner,PtsLoser
+2022,1,WildCard,Sat,1/14/2023,Jacksonville Jaguars,,Los Angeles Chargers,boxscore,31,30
+2022,1,WildCard,Sat,1/14/2023,San Francisco 49ers,,Seattle Seahawks,boxscore,41,23
+2022,1,WildCard,Sun,1/15/2023,Buffalo Bills,,Miami Dolphins,boxscore,34,31
+2022,1,WildCard,Sun,1/15/2023,Cincinnati Bengals,,Baltimore Ravens,boxscore,24,17
+2022,1,WildCard,Sun,1/15/2023,New York Giants,@,Minnesota Vikings,boxscore,31,24
+2022,1,WildCard,Mon,1/16/2023,Dallas Cowboys,@,Tampa Bay Buccaneers,boxscore,31,14
+2022,2,Division,Sat,1/21/2023,Kansas City Chiefs,,Jacksonville Jaguars,boxscore,27,20
+2022,2,Division,Sat,1/21/2023,Philadelphia Eagles,,New York Giants,boxscore,38,7
+2022,2,Division,Sun,1/22/2023,Cincinnati Bengals,@,Buffalo Bills,boxscore,27,10
+2022,2,Division,Sun,1/22/2023,San Francisco 49ers,,Dallas Cowboys,boxscore,19,12
+2022,3,ConfChamp,Sun,1/29/2023,Kansas City Chiefs,,Cincinnati Bengals,boxscore,23,20
+2022,3,ConfChamp,Sun,1/29/2023,Philadelphia Eagles,,San Francisco 49ers,boxscore,31,7
+2022,4,SuperBowl,Sun,2/12/2023,TBD,N,TBD,boxscore,0,0
+2021,1,WildCard,Sat,1/15/2022,Buffalo Bills,,New England Patriots,boxscore,47,17
+2021,1,WildCard,Sat,1/15/2022,Cincinnati Bengals,,Las Vegas Raiders,boxscore,26,19
+2021,1,WildCard,Sun,1/16/2022,Kansas City Chiefs,,Pittsburgh Steelers,boxscore,42,21
+2021,1,WildCard,Sun,1/16/2022,San Francisco 49ers,@,Dallas Cowboys,boxscore,23,17
+2021,1,WildCard,Sun,1/16/2022,Tampa Bay Buccaneers,,Philadelphia Eagles,boxscore,31,15
+2021,1,WildCard,Mon,1/17/2022,Los Angeles Rams,,Arizona Cardinals,boxscore,34,11
+2021,2,Division,Sat,1/22/2022,Cincinnati Bengals,@,Tennessee Titans,boxscore,19,16
+2021,2,Division,Sat,1/22/2022,San Francisco 49ers,@,Green Bay Packers,boxscore,13,10
+2021,2,Division,Sun,1/23/2022,Kansas City Chiefs,,Buffalo Bills,boxscore,42,36
+2021,2,Division,Sun,1/23/2022,Los Angeles Rams,@,Tampa Bay Buccaneers,boxscore,30,27
+2021,3,ConfChamp,Sun,1/30/2022,Cincinnati Bengals,@,Kansas City Chiefs,boxscore,27,24
+2021,3,ConfChamp,Sun,1/30/2022,Los Angeles Rams,,San Francisco 49ers,boxscore,20,17
+2021,4,SuperBowl,Sun,2/13/2022,Los Angeles Rams,N,Cincinnati Bengals,boxscore,23,20
+2020,1,WildCard,Sat,1/9/2021,Buffalo Bills,,Indianapolis Colts,boxscore,27,24
+2020,1,WildCard,Sat,1/9/2021,Los Angeles Rams,@,Seattle Seahawks,boxscore,30,20
+2020,1,WildCard,Sat,1/9/2021,Tampa Bay Buccaneers,@,Washington Football Team,boxscore,31,23
+2020,1,WildCard,Sun,1/10/2021,Cleveland Browns,@,Pittsburgh Steelers,boxscore,48,37
+2020,1,WildCard,Sun,1/10/2021,New Orleans Saints,,Chicago Bears,boxscore,21,9
+2020,1,WildCard,Sun,1/10/2021,Baltimore Ravens,@,Tennessee Titans,boxscore,20,13
+2020,2,Division,Sat,1/16/2021,Green Bay Packers,,Los Angeles Rams,boxscore,32,18
+2020,2,Division,Sat,1/16/2021,Buffalo Bills,,Baltimore Ravens,boxscore,17,3
+2020,2,Division,Sun,1/17/2021,Kansas City Chiefs,,Cleveland Browns,boxscore,22,17
+2020,2,Division,Sun,1/17/2021,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,30,20
+2020,3,ConfChamp,Sun,1/24/2021,Kansas City Chiefs,,Buffalo Bills,boxscore,38,24
+2020,3,ConfChamp,Sun,1/24/2021,Tampa Bay Buccaneers,@,Green Bay Packers,boxscore,31,26
+2020,4,SuperBowl,Sun,2/7/2021,Tampa Bay Buccaneers,N,Kansas City Chiefs,boxscore,31,9
+2019,1,WildCard,Sat,1/4/2020,Houston Texans,,Buffalo Bills,boxscore,22,19
+2019,1,WildCard,Sat,1/4/2020,Tennessee Titans,@,New England Patriots,boxscore,20,13
+2019,1,WildCard,Sun,1/5/2020,Minnesota Vikings,@,New Orleans Saints,boxscore,26,20
+2019,1,WildCard,Sun,1/5/2020,Seattle Seahawks,@,Philadelphia Eagles,boxscore,17,9
+2019,2,Division,Sat,1/11/2020,San Francisco 49ers,,Minnesota Vikings,boxscore,27,10
+2019,2,Division,Sat,1/11/2020,Tennessee Titans,@,Baltimore Ravens,boxscore,28,12
+2019,2,Division,Sun,1/12/2020,Kansas City Chiefs,,Houston Texans,boxscore,51,31
+2019,2,Division,Sun,1/12/2020,Green Bay Packers,,Seattle Seahawks,boxscore,28,23
+2019,3,ConfChamp,Sun,1/19/2020,Kansas City Chiefs,,Tennessee Titans,boxscore,35,24
+2019,3,ConfChamp,Sun,1/19/2020,San Francisco 49ers,,Green Bay Packers,boxscore,37,20
+2019,4,SuperBowl,Sun,2/2/2020,Kansas City Chiefs,N,San Francisco 49ers,boxscore,31,20
+2018,1,WildCard,Sat,1/5/2019,Indianapolis Colts,@,Houston Texans,boxscore,21,7
+2018,1,WildCard,Sat,1/5/2019,Dallas Cowboys,,Seattle Seahawks,boxscore,24,22
+2018,1,WildCard,Sun,1/6/2019,Philadelphia Eagles,@,Chicago Bears,boxscore,16,15
+2018,1,WildCard,Sun,1/6/2019,Los Angeles Chargers,@,Baltimore Ravens,boxscore,23,17
+2018,2,Division,Sat,1/12/2019,Kansas City Chiefs,,Indianapolis Colts,boxscore,31,13
+2018,2,Division,Sat,1/12/2019,Los Angeles Rams,,Dallas Cowboys,boxscore,30,22
+2018,2,Division,Sun,1/13/2019,New Orleans Saints,,Philadelphia Eagles,boxscore,20,14
+2018,2,Division,Sun,1/13/2019,New England Patriots,,Los Angeles Chargers,boxscore,41,28
+2018,3,ConfChamp,Sun,1/20/2019,New England Patriots,@,Kansas City Chiefs,boxscore,37,31
+2018,3,ConfChamp,Sun,1/20/2019,Los Angeles Rams,@,New Orleans Saints,boxscore,26,23
+2018,4,SuperBowl,Sun,2/3/2019,New England Patriots,N,Los Angeles Rams,boxscore,13,3
+2017,1,WildCard,Sat,1/6/2018,Atlanta Falcons,@,Los Angeles Rams,boxscore,26,13
+2017,1,WildCard,Sat,1/6/2018,Tennessee Titans,@,Kansas City Chiefs,boxscore,22,21
+2017,1,WildCard,Sun,1/7/2018,Jacksonville Jaguars,,Buffalo Bills,boxscore,10,3
+2017,1,WildCard,Sun,1/7/2018,New Orleans Saints,,Carolina Panthers,boxscore,31,26
+2017,2,Division,Sat,1/13/2018,New England Patriots,,Tennessee Titans,boxscore,35,14
+2017,2,Division,Sat,1/13/2018,Philadelphia Eagles,,Atlanta Falcons,boxscore,15,10
+2017,2,Division,Sun,1/14/2018,Minnesota Vikings,,New Orleans Saints,boxscore,29,24
+2017,2,Division,Sun,1/14/2018,Jacksonville Jaguars,@,Pittsburgh Steelers,boxscore,45,42
+2017,3,ConfChamp,Sun,1/21/2018,New England Patriots,,Jacksonville Jaguars,boxscore,24,20
+2017,3,ConfChamp,Sun,1/21/2018,Philadelphia Eagles,,Minnesota Vikings,boxscore,38,7
+2017,4,SuperBowl,Sun,2/4/2018,Philadelphia Eagles,N,New England Patriots,boxscore,41,33
+2016,1,WildCard,Sat,1/7/2017,Houston Texans,,Oakland Raiders,boxscore,27,14
+2016,1,WildCard,Sat,1/7/2017,Seattle Seahawks,,Detroit Lions,boxscore,26,6
+2016,1,WildCard,Sun,1/8/2017,Green Bay Packers,,New York Giants,boxscore,38,13
+2016,1,WildCard,Sun,1/8/2017,Pittsburgh Steelers,,Miami Dolphins,boxscore,30,12
+2016,2,Division,Sat,1/14/2017,Atlanta Falcons,,Seattle Seahawks,boxscore,36,20
+2016,2,Division,Sat,1/14/2017,New England Patriots,,Houston Texans,boxscore,34,16
+2016,2,Division,Sun,1/15/2017,Green Bay Packers,@,Dallas Cowboys,boxscore,34,31
+2016,2,Division,Sun,1/15/2017,Pittsburgh Steelers,@,Kansas City Chiefs,boxscore,18,16
+2016,3,ConfChamp,Sun,1/22/2017,Atlanta Falcons,,Green Bay Packers,boxscore,44,21
+2016,3,ConfChamp,Sun,1/22/2017,New England Patriots,,Pittsburgh Steelers,boxscore,36,17
+2016,4,SuperBowl,Sun,2/5/2017,New England Patriots,N,Atlanta Falcons,boxscore,34,28
+2015,1,WildCard,Sat,1/9/2016,Kansas City Chiefs,@,Houston Texans,boxscore,30,0
+2015,1,WildCard,Sat,1/9/2016,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,18,16
+2015,1,WildCard,Sun,1/10/2016,Green Bay Packers,@,Washington Redskins,boxscore,35,18
+2015,1,WildCard,Sun,1/10/2016,Seattle Seahawks,@,Minnesota Vikings,boxscore,10,9
+2015,2,Division,Sat,1/16/2016,Arizona Cardinals,,Green Bay Packers,boxscore,26,20
+2015,2,Division,Sat,1/16/2016,New England Patriots,,Kansas City Chiefs,boxscore,27,20
+2015,2,Division,Sun,1/17/2016,Carolina Panthers,,Seattle Seahawks,boxscore,31,24
+2015,2,Division,Sun,1/17/2016,Denver Broncos,,Pittsburgh Steelers,boxscore,23,16
+2015,3,ConfChamp,Sun,1/24/2016,Carolina Panthers,,Arizona Cardinals,boxscore,49,15
+2015,3,ConfChamp,Sun,1/24/2016,Denver Broncos,,New England Patriots,boxscore,20,18
+2015,4,SuperBowl,Sun,2/7/2016,Denver Broncos,N,Carolina Panthers,boxscore,24,10
+2014,1,WildCard,Sat,1/3/2015,Carolina Panthers,,Arizona Cardinals,boxscore,27,16
+2014,1,WildCard,Sat,1/3/2015,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,30,17
+2014,1,WildCard,Sun,1/4/2015,Indianapolis Colts,,Cincinnati Bengals,boxscore,26,10
+2014,1,WildCard,Sun,1/4/2015,Dallas Cowboys,,Detroit Lions,boxscore,24,20
+2014,2,Division,Sat,1/10/2015,New England Patriots,,Baltimore Ravens,boxscore,35,31
+2014,2,Division,Sat,1/10/2015,Seattle Seahawks,,Carolina Panthers,boxscore,31,17
+2014,2,Division,Sun,1/11/2015,Green Bay Packers,,Dallas Cowboys,boxscore,26,21
+2014,2,Division,Sun,1/11/2015,Indianapolis Colts,@,Denver Broncos,boxscore,24,13
+2014,3,ConfChamp,Sun,1/18/2015,New England Patriots,,Indianapolis Colts,boxscore,45,7
+2014,3,ConfChamp,Sun,1/18/2015,Seattle Seahawks,,Green Bay Packers,boxscore,28,22
+2014,4,SuperBowl,Sun,2/1/2015,New England Patriots,N,Seattle Seahawks,boxscore,28,24
+2013,1,WildCard,Sat,1/4/2014,Indianapolis Colts,,Kansas City Chiefs,boxscore,45,44
+2013,1,WildCard,Sat,1/4/2014,New Orleans Saints,@,Philadelphia Eagles,boxscore,26,24
+2013,1,WildCard,Sun,1/5/2014,San Diego Chargers,@,Cincinnati Bengals,boxscore,27,10
+2013,1,WildCard,Sun,1/5/2014,San Francisco 49ers,@,Green Bay Packers,boxscore,23,20
+2013,2,Division,Sat,1/11/2014,New England Patriots,,Indianapolis Colts,boxscore,43,22
+2013,2,Division,Sat,1/11/2014,Seattle Seahawks,,New Orleans Saints,boxscore,23,15
+2013,2,Division,Sun,1/12/2014,Denver Broncos,,San Diego Chargers,boxscore,24,17
+2013,2,Division,Sun,1/12/2014,San Francisco 49ers,@,Carolina Panthers,boxscore,23,10
+2013,3,ConfChamp,Sun,1/19/2014,Denver Broncos,,New England Patriots,boxscore,26,16
+2013,3,ConfChamp,Sun,1/19/2014,Seattle Seahawks,,San Francisco 49ers,boxscore,23,17
+2013,4,SuperBowl,Sun,2/2/2014,Seattle Seahawks,N,Denver Broncos,boxscore,43,8
+2012,1,WildCard,Sat,1/5/2013,Green Bay Packers,,Minnesota Vikings,boxscore,24,10
+2012,1,WildCard,Sat,1/5/2013,Houston Texans,,Cincinnati Bengals,boxscore,19,13
+2012,1,WildCard,Sun,1/6/2013,Baltimore Ravens,,Indianapolis Colts,boxscore,24,9
+2012,1,WildCard,Sun,1/6/2013,Seattle Seahawks,@,Washington Redskins,boxscore,24,14
+2012,2,Division,Sat,1/12/2013,San Francisco 49ers,,Green Bay Packers,boxscore,45,31
+2012,2,Division,Sat,1/12/2013,Baltimore Ravens,@,Denver Broncos,boxscore,38,35
+2012,2,Division,Sun,1/13/2013,Atlanta Falcons,,Seattle Seahawks,boxscore,30,28
+2012,2,Division,Sun,1/13/2013,New England Patriots,,Houston Texans,boxscore,41,28
+2012,3,ConfChamp,Sun,1/20/2013,San Francisco 49ers,@,Atlanta Falcons,boxscore,28,24
+2012,3,ConfChamp,Sun,1/20/2013,Baltimore Ravens,@,New England Patriots,boxscore,28,13
+2012,4,SuperBowl,Sun,2/3/2013,Baltimore Ravens,N,San Francisco 49ers,boxscore,34,31
+2011,1,WildCard,Sat,1/7/2012,Houston Texans,,Cincinnati Bengals,boxscore,31,10
+2011,1,WildCard,Sat,1/7/2012,New Orleans Saints,,Detroit Lions,boxscore,45,28
+2011,1,WildCard,Sun,1/8/2012,Denver Broncos,,Pittsburgh Steelers,boxscore,29,23
+2011,1,WildCard,Sun,1/8/2012,New York Giants,,Atlanta Falcons,boxscore,24,2
+2011,2,Division,Sat,1/14/2012,New England Patriots,,Denver Broncos,boxscore,45,10
+2011,2,Division,Sat,1/14/2012,San Francisco 49ers,,New Orleans Saints,boxscore,36,32
+2011,2,Division,Sun,1/15/2012,Baltimore Ravens,,Houston Texans,boxscore,20,13
+2011,2,Division,Sun,1/15/2012,New York Giants,@,Green Bay Packers,boxscore,37,20
+2011,3,ConfChamp,Sun,1/22/2012,New England Patriots,,Baltimore Ravens,boxscore,23,20
+2011,3,ConfChamp,Sun,1/22/2012,New York Giants,@,San Francisco 49ers,boxscore,20,17
+2011,4,SuperBowl,Sun,2/5/2012,New York Giants,N,New England Patriots,boxscore,21,17
+2010,1,WildCard,Sat,1/8/2011,New York Jets,@,Indianapolis Colts,boxscore,17,16
+2010,1,WildCard,Sat,1/8/2011,Seattle Seahawks,,New Orleans Saints,boxscore,41,36
+2010,1,WildCard,Sun,1/9/2011,Green Bay Packers,@,Philadelphia Eagles,boxscore,21,16
+2010,1,WildCard,Sun,1/9/2011,Baltimore Ravens,@,Kansas City Chiefs,boxscore,30,7
+2010,2,Division,Sat,1/15/2011,Pittsburgh Steelers,,Baltimore Ravens,boxscore,31,24
+2010,2,Division,Sat,1/15/2011,Green Bay Packers,@,Atlanta Falcons,boxscore,48,21
+2010,2,Division,Sun,1/16/2011,Chicago Bears,,Seattle Seahawks,boxscore,35,24
+2010,2,Division,Sun,1/16/2011,New York Jets,@,New England Patriots,boxscore,28,21
+2010,3,ConfChamp,Sun,1/23/2011,Pittsburgh Steelers,,New York Jets,boxscore,24,19
+2010,3,ConfChamp,Sun,1/23/2011,Green Bay Packers,@,Chicago Bears,boxscore,21,14
+2010,4,SuperBowl,Sun,2/6/2011,Green Bay Packers,N,Pittsburgh Steelers,boxscore,31,25
+2009,1,WildCard,Sat,1/9/2010,Dallas Cowboys,,Philadelphia Eagles,boxscore,34,14
+2009,1,WildCard,Sat,1/9/2010,New York Jets,@,Cincinnati Bengals,boxscore,24,14
+2009,1,WildCard,Sun,1/10/2010,Arizona Cardinals,,Green Bay Packers,boxscore,51,45
+2009,1,WildCard,Sun,1/10/2010,Baltimore Ravens,@,New England Patriots,boxscore,33,14
+2009,2,Division,Sat,1/16/2010,Indianapolis Colts,,Baltimore Ravens,boxscore,20,3
+2009,2,Division,Sat,1/16/2010,New Orleans Saints,,Arizona Cardinals,boxscore,45,14
+2009,2,Division,Sun,1/17/2010,Minnesota Vikings,,Dallas Cowboys,boxscore,34,3
+2009,2,Division,Sun,1/17/2010,New York Jets,@,San Diego Chargers,boxscore,17,14
+2009,3,ConfChamp,Sun,1/24/2010,Indianapolis Colts,,New York Jets,boxscore,30,17
+2009,3,ConfChamp,Sun,1/24/2010,New Orleans Saints,,Minnesota Vikings,boxscore,31,28
+2009,4,SuperBowl,Sun,2/7/2010,New Orleans Saints,N,Indianapolis Colts,boxscore,31,17
+2008,1,WildCard,Sat,1/3/2009,Arizona Cardinals,,Atlanta Falcons,boxscore,30,24
+2008,1,WildCard,Sat,1/3/2009,San Diego Chargers,,Indianapolis Colts,boxscore,23,17
+2008,1,WildCard,Sun,1/4/2009,Philadelphia Eagles,@,Minnesota Vikings,boxscore,26,14
+2008,1,WildCard,Sun,1/4/2009,Baltimore Ravens,@,Miami Dolphins,boxscore,27,9
+2008,2,Division,Sat,1/10/2009,Arizona Cardinals,@,Carolina Panthers,boxscore,33,13
+2008,2,Division,Sat,1/10/2009,Baltimore Ravens,@,Tennessee Titans,boxscore,13,10
+2008,2,Division,Sun,1/11/2009,Pittsburgh Steelers,,San Diego Chargers,boxscore,35,24
+2008,2,Division,Sun,1/11/2009,Philadelphia Eagles,@,New York Giants,boxscore,23,11
+2008,3,ConfChamp,Sun,1/18/2009,Pittsburgh Steelers,,Baltimore Ravens,boxscore,23,14
+2008,3,ConfChamp,Sun,1/18/2009,Arizona Cardinals,,Philadelphia Eagles,boxscore,32,25
+2008,4,SuperBowl,Sun,2/1/2009,Pittsburgh Steelers,N,Arizona Cardinals,boxscore,27,23
+2007,1,WildCard,Sat,1/5/2008,Jacksonville Jaguars,@,Pittsburgh Steelers,boxscore,31,29
+2007,1,WildCard,Sat,1/5/2008,Seattle Seahawks,,Washington Redskins,boxscore,35,14
+2007,1,WildCard,Sun,1/6/2008,New York Giants,@,Tampa Bay Buccaneers,boxscore,24,14
+2007,1,WildCard,Sun,1/6/2008,San Diego Chargers,,Tennessee Titans,boxscore,17,6
+2007,2,Division,Sat,1/12/2008,Green Bay Packers,,Seattle Seahawks,boxscore,42,20
+2007,2,Division,Sat,1/12/2008,New England Patriots,,Jacksonville Jaguars,boxscore,31,20
+2007,2,Division,Sun,1/13/2008,New York Giants,@,Dallas Cowboys,boxscore,21,17
+2007,2,Division,Sun,1/13/2008,San Diego Chargers,@,Indianapolis Colts,boxscore,28,24
+2007,3,ConfChamp,Sun,1/20/2008,New England Patriots,,San Diego Chargers,boxscore,21,12
+2007,3,ConfChamp,Sun,1/20/2008,New York Giants,@,Green Bay Packers,boxscore,23,20
+2007,4,SuperBowl,Sun,2/3/2008,New York Giants,N,New England Patriots,boxscore,17,14
+2006,1,WildCard,Sat,1/6/2007,Indianapolis Colts,,Kansas City Chiefs,boxscore,23,8
+2006,1,WildCard,Sat,1/6/2007,Seattle Seahawks,,Dallas Cowboys,boxscore,21,20
+2006,1,WildCard,Sun,1/7/2007,New England Patriots,,New York Jets,boxscore,37,16
+2006,1,WildCard,Sun,1/7/2007,Philadelphia Eagles,,New York Giants,boxscore,23,20
+2006,2,Division,Sat,1/13/2007,New Orleans Saints,,Philadelphia Eagles,boxscore,27,24
+2006,2,Division,Sat,1/13/2007,Indianapolis Colts,@,Baltimore Ravens,boxscore,15,6
+2006,2,Division,Sun,1/14/2007,Chicago Bears,,Seattle Seahawks,boxscore,27,24
+2006,2,Division,Sun,1/14/2007,New England Patriots,@,San Diego Chargers,boxscore,24,21
+2006,3,ConfChamp,Sun,1/21/2007,Chicago Bears,,New Orleans Saints,boxscore,39,14
+2006,3,ConfChamp,Sun,1/21/2007,Indianapolis Colts,,New England Patriots,boxscore,38,34
+2006,4,SuperBowl,Sun,2/4/2007,Indianapolis Colts,N,Chicago Bears,boxscore,29,17
+2005,1,WildCard,Sat,1/7/2006,New England Patriots,,Jacksonville Jaguars,boxscore,28,3
+2005,1,WildCard,Sat,1/7/2006,Washington Redskins,@,Tampa Bay Buccaneers,boxscore,17,10
+2005,1,WildCard,Sun,1/8/2006,Carolina Panthers,@,New York Giants,boxscore,23,0
+2005,1,WildCard,Sun,1/8/2006,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,31,17
+2005,2,Division,Sat,1/14/2006,Denver Broncos,,New England Patriots,boxscore,27,13
+2005,2,Division,Sat,1/14/2006,Seattle Seahawks,,Washington Redskins,boxscore,20,10
+2005,2,Division,Sun,1/15/2006,Carolina Panthers,@,Chicago Bears,boxscore,29,21
+2005,2,Division,Sun,1/15/2006,Pittsburgh Steelers,@,Indianapolis Colts,boxscore,21,18
+2005,3,ConfChamp,Sun,1/22/2006,Seattle Seahawks,,Carolina Panthers,boxscore,34,14
+2005,3,ConfChamp,Sun,1/22/2006,Pittsburgh Steelers,@,Denver Broncos,boxscore,34,17
+2005,4,SuperBowl,Sun,2/5/2006,Pittsburgh Steelers,N,Seattle Seahawks,boxscore,21,10
+2004,1,WildCard,Sat,1/8/2005,New York Jets,@,San Diego Chargers,boxscore,20,17
+2004,1,WildCard,Sat,1/8/2005,St. Louis Rams,@,Seattle Seahawks,boxscore,27,20
+2004,1,WildCard,Sun,1/9/2005,Indianapolis Colts,,Denver Broncos,boxscore,49,24
+2004,1,WildCard,Sun,1/9/2005,Minnesota Vikings,@,Green Bay Packers,boxscore,31,17
+2004,2,Division,Sat,1/15/2005,Atlanta Falcons,,St. Louis Rams,boxscore,47,17
+2004,2,Division,Sat,1/15/2005,Pittsburgh Steelers,,New York Jets,boxscore,20,17
+2004,2,Division,Sun,1/16/2005,New England Patriots,,Indianapolis Colts,boxscore,20,3
+2004,2,Division,Sun,1/16/2005,Philadelphia Eagles,,Minnesota Vikings,boxscore,27,14
+2004,3,ConfChamp,Sun,1/23/2005,New England Patriots,@,Pittsburgh Steelers,boxscore,41,27
+2004,3,ConfChamp,Sun,1/23/2005,Philadelphia Eagles,,Atlanta Falcons,boxscore,27,10
+2004,4,SuperBowl,Sun,2/6/2005,New England Patriots,N,Philadelphia Eagles,boxscore,24,21
+2003,1,WildCard,Sat,1/3/2004,Carolina Panthers,,Dallas Cowboys,boxscore,29,10
+2003,1,WildCard,Sat,1/3/2004,Tennessee Titans,@,Baltimore Ravens,boxscore,20,17
+2003,1,WildCard,Sun,1/4/2004,Indianapolis Colts,,Denver Broncos,boxscore,41,10
+2003,1,WildCard,Sun,1/4/2004,Green Bay Packers,,Seattle Seahawks,boxscore,33,27
+2003,2,Division,Sat,1/10/2004,New England Patriots,,Tennessee Titans,boxscore,17,14
+2003,2,Division,Sat,1/10/2004,Carolina Panthers,@,St. Louis Rams,boxscore,29,23
+2003,2,Division,Sun,1/11/2004,Philadelphia Eagles,,Green Bay Packers,boxscore,20,17
+2003,2,Division,Sun,1/11/2004,Indianapolis Colts,@,Kansas City Chiefs,boxscore,38,31
+2003,3,ConfChamp,Sun,1/18/2004,New England Patriots,,Indianapolis Colts,boxscore,24,14
+2003,3,ConfChamp,Sun,1/18/2004,Carolina Panthers,@,Philadelphia Eagles,boxscore,14,3
+2003,4,SuperBowl,Sun,2/1/2004,New England Patriots,N,Carolina Panthers,boxscore,32,29
