@@ -14,6 +14,7 @@
 
 ## Tools & Technologies Used
 EXCEL FOR ALTERNATE CHARTING
+
 JUPYTER NOTEBOOK:
 * PANDAS FOR DATA ANALYSIS
 * NUMPY FOR MATHEMATICAL FUNCTION
@@ -42,7 +43,7 @@ Answer: No. We analyzed the maximum round each team achieved in the playoffs, an
 
 ## Conclusion:
 
-Unfortunately, based on the 50 categories of statistics used here, statistics cannot predict Super Bowl winners in the NFL.
+Unfortunately, based on these 50 categories, statistics cannot predict Super Bowl winners in the NFL.
 
 ## Results
 
