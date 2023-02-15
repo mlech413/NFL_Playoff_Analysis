@@ -6,6 +6,7 @@
 
 #### Three types of csv files, containing NFL historical data from 2003 - 2022 (20 years) as follows:
 
+Data pulled from Pro Football Reference.com:
 * nfl_statistics_team_offense_by_season.csv: 25 different offensive statistical categories for every team, by season.
 * nfl_statistics_team_defense_by_season.csv: 25 different defensive statistical categories for every team, by season.
 * nfl_playoff_results_by_season.csv: all individual playoff game results for the same 20 year period.
