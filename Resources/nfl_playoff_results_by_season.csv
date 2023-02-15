@@ -9,10 +9,9 @@ Season,RoundNum,RoundName,Day,Date,Winner,,Loser,,PtsWinner,PtsLoser
 2022,2,Division,Sat,1/21/2023,Philadelphia Eagles,,New York Giants,boxscore,38,7
 2022,2,Division,Sun,1/22/2023,Cincinnati Bengals,@,Buffalo Bills,boxscore,27,10
 2022,2,Division,Sun,1/22/2023,San Francisco 49ers,,Dallas Cowboys,boxscore,19,12
-2022,3,ConfChamp,Sun,1/29/2023,Kansas City Chiefs,,Cincinnati Bengals,boxscore,23,20
-2022,3,ConfChamp,Sun,1/29/2023,Philadelphia Eagles,,San Francisco 49ers,boxscore,31,7
-2022,4,SuperBowl,Sun,2/12/2023,TBD,N,TBD,boxscore,0,0
-2021,1,WildCard,Sat,1/15/2022,Buffalo Bills,,New England Patriots,boxscore,47,17
+2022,3,ConfChamp,Sun,1/30/2022,Kansas City Chiefs,,Cincinnati Bengals,boxscore,23,20
+2022,3,ConfChamp,Sun,1/30/2022,Philadelphia Eagles,,San Francisco 49ers,boxscore,31,7
+2022,4,SuperBowl,Sun,2/12/2022,Kansas City Chiefs,,Philadelphia Eagles,boxscore,38,35
 2021,1,WildCard,Sat,1/15/2022,Cincinnati Bengals,,Las Vegas Raiders,boxscore,26,19
 2021,1,WildCard,Sun,1/16/2022,Kansas City Chiefs,,Pittsburgh Steelers,boxscore,42,21
 2021,1,WildCard,Sun,1/16/2022,San Francisco 49ers,@,Dallas Cowboys,boxscore,23,17
